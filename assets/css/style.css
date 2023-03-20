@@ -1,0 +1,15 @@
+.table tr th  {
+    font-size: 12px;
+}
+
+.table tr td {
+    font-size: 13px;
+}
+
+.table a {
+    font-size: 13px;
+}
+
+.opacity-0 {
+    opacity: 0;
+}
